@@ -6,7 +6,7 @@
 
 **command**:
 
-`git clone <your repo url>`
+`git clone <your repo url with https>`
 
 **example**:
 
