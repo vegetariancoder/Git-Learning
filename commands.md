@@ -1,4 +1,4 @@
-# Git Commands
+# <u>Git Commands</u>
 
 
 ### git clone
@@ -6,7 +6,7 @@
 
 **command**:
 
-`git clone <your repo url>`
+`git clone <your repo url with https>`
 
 **example**:
 
@@ -22,8 +22,20 @@ git config user.email "your email"`
 
 **example**:
 
-`git config user.name "nagpalsahil"
-git config user.email "nagpalsahil@gmail.com"`
+`git config user.name "nagpalsahil"`
 
 
-#### git status
+`git config user.email "nagpalsahil@gmail.com"`
+
+
+### git status
+
+##### Description : This command lists all the files that have to be committed.
+
+**command**:
+
+`git status`
+
+**example**:
+
+`git status`
