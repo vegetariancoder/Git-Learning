@@ -39,5 +39,3 @@ git config user.email "your email"`
 **example**:
 
 `git status`
-
-### Wrong git command
